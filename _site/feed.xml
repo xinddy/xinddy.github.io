@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinddy</title>
+    <description>我的博客</description>
+    <link>http://xinddy.github.io/</link>
+    <atom:link href="http://xinddy.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 28 Aug 2014 13:51:46 +0800</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2014 13:51:46 +0800</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+  </channel>
+</rss>
